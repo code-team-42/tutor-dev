@@ -1,0 +1,7 @@
+University student user story:
+
+Marc is a university student. While in his first semester, he is starting to struggle a lot in his intro to business class. He is finding himself lost, frustrated, and not understanding the material. He is worried about his grades because if his GPA drops below a 3.5, he will lose his scholarship. However, Marc remembers during his orientation that there is an online tutoring service offered through the college. He decides to look into the service to see if it would be beneficial to use it.
+
+When he is signing up, the service asks Marc for information to help find a suitable tutor for him. These questions include what year he is in school, what subject/s he needs help with, and what times he is available for tutoring sessions. After this, a request is sent to tutors, who then can accept the request, and become Marcs tutor. One of the tutors sees the request, and believing it would be a good fit accepts the request. The tutor then messages Marc to schedule their first session.
+
+They begin to meet online over video chat once a week to help Marc with his coursework and to answer any questions he might have. Before each session, Marc messages what topics he would like to cover so his tutor can be ready, and comes prepared with specific questions to ask the tutor. Marcs tutor is very helpful and knowledgeable, and is able to help him understand the topics he was struggling with. Through the help of his tutor, Marcs grades begin to go back up. Marc manages to get a 4.0 that semester and keep his scholarship.
