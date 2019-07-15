@@ -1,5 +1,9 @@
 # Table of Contents
 
+## Tasks
+* [Initial notes](./overview.md)
+* Remaining tasks are in the Github Project and Repo Issues :)
+
 ## Stories
 * [Student by Anthony](./stories/anthony-student.md)
 * [Admin by Dan](./stories/dan-admin.md)
