@@ -12,3 +12,4 @@
 * [Student by Mikey](./stories/mikey-student.md)
 * [Tutor by Mikey](./stories/mikey-tutor.md)
 * [Student by Will](./stories/will-student.md)
+* [Tutor by Ben](./stories/ben-tutor.md)
